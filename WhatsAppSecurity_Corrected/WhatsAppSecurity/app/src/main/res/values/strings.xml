@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhatsApp Security</string>
+    <string name="allow_overlay_permission">Allow Overlay Permission</string>
+    <string name="bubble_click_message">Bubble Clicked!</string>
+    <string name="bubble_content_description">Bubble</string>
+</resources>
+    <!-- res/values/strings.xml -->
+
